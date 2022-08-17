@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(255, 0, 0);
+}
+
+button {
+  background-color: rgb(251, 134, 62);
+  color: rgb(195, 255, 0);
+  padding: 8px 4px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin: 10px 0px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+.actions {
+  display: flex;
+  justify-content: start;
+}
+
+.navbar {
+  background-color: rgb(12, 12, 45);
+  color: white;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  gap: 10px;
+  padding: 10px;
+}
