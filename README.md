@@ -9,7 +9,7 @@ Les comparto una frase que me encanto: "El talento gana partidos, pero el trabaj
 ### **Jhonatan Andrés Aldana Rivera**
 Administrador de Bases de Datos
 
-# Andrés Felipe Jaimes Diaz
+### **Andrés Felipe Jaimes Diaz**
 Vamos con toda equipo, a desarrollar y a sacar este MinTIC adelante, confío en ustedes y espero que nos vaya bien en todo, después de todo, somos un gran equipo.
 
 ### **James Mauricio Caicedo Quintero**
