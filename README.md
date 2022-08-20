@@ -14,3 +14,8 @@ Vamos con toda equipo, a desarrollar y a sacar este MinTIC adelante, confío en 
 
 ### **James Mauricio Caicedo Quintero**
 Scrum Master
+
+### "Filleral Yefreyner Mahecha Cantor"
+
+no importa las complicaciones un equipo de trabajo debe manterse fuerte y estable, si lo puedes imaginar lo puedes desarrollar, cuenten con todo mi apoyo 
+Desarrollador Jr
